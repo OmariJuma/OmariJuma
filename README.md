@@ -1,5 +1,6 @@
-#Omar Juma
-**Tech Stack**
+# Hi, I am Omar Juma 👋 <br/>
+<strong>I am a software developer specializing in web development and app development using (M.E.R.N) Stack</strong><br/>
+<br/>
 🚀React.js
 🚀REACT NATIVE
 🚀Node.js
@@ -8,7 +9,7 @@
 🚀HTML5
 🚀CSS3
 🚀JAVASCRIPT
-# My Stats... am growing tech-nically😎
+### My Stats... I am growing tech-nically😎
 
 
 [![](https://raw.githubusercontent.com/OmariJuma/github-stats/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
