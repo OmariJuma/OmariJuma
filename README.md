@@ -1,6 +1,7 @@
 # Hi, I am Omar Juma 👋 <br/>
-<strong>I am a software developer specializing in web development and app development using (M.E.R.N) Stack</strong><br/>
+<strong>I am a software developer specializing in web development and app development using python and (M.E.R.N) Stack</strong><br/>
 <br/>
+🚀Python
 🚀React.js
 🚀REACT NATIVE
 🚀Node.js
