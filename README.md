@@ -1,18 +1,17 @@
 # Hi, I am Omar Juma 👋 <br/>
-<strong>I am a software developer specializing in web development and app development using python and (M.E.R.N) Stack</strong><br/>
+<strong>I am a software developer specializing in web development (M.E.R.N) Stack and Java (Spring Boot) </strong><br/>
 <br/>
-🚀Python
 🚀React.js
-🚀REACT NATIVE
+🚀Java (Spring Boot)
+🚀Python
+🚀React Native
 🚀Node.js
 🚀MongoDb
 🚀Mysql
 🚀HTML5
 🚀CSS3
-🚀JAVASCRIPT
-### My Stats... I am growing tech-nically😎
+### My Stats... I am growing technically😎
 
 
 [![](https://raw.githubusercontent.com/OmariJuma/github-stats/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/OmariJuma/github-stats/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OmariJuma/github-stats/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/OmariJuma/github-stats/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OmariJuma/github-stats/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/OmariJuma/github-stats/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![]
