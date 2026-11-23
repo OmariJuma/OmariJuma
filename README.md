@@ -16,7 +16,7 @@ Bonjour (Hello), I am <strong>Omar Juma 👋</strong> a software developer from 
 | **Messaging & Streaming** | Apache Kafka, RabbitMQ | Event-driven architecture, asynchronous communication |
 | **Architecture & APIs** | Microservices, REST APIs, API Integration, Distributed Systems | Scalable services and distributed applications |
 | **Cloud & Infrastructure** | AWS, AWS ECR, AWS IAM, | Cloud deployments and infrastructure management |
-| **DevOps & CI/CD** | Docker, Kubernetes, GitLab CI/CD, Jenkins |
+| **DevOps & CI/CD** | Docker, Kubernetes, GitLab CI/CD, Jenkins | Containerization, automation |
 | **Testing & Code Quality** | JUnit, Mockito, SonarQube | Unit testing, code quality and maintainability |
 | **Monitoring & Logging** | Grafana | Observability, monitoring and log analysis |
 | **Development Tools** | Git, GitLab, IntelliJ IDEA, Postman, Jira, Confluence | Version control, API development and collaboration |
